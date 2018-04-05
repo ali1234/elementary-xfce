@@ -14,8 +14,8 @@
    width="128"
    height="128"
    id="svg3367"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="ubiquity.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="media-import-audio-cd.svg">
   <metadata
      id="metadata49726">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

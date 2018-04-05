@@ -14,8 +14,8 @@
    height="64"
    id="svg2454"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="parole.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="totem.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1">
   <defs
@@ -134,16 +134,6 @@
          offset="1.0000000"
          style="stop-color:#d4d4d4;stop-opacity:1.0000000;" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2502"
-       id="linearGradient12952"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-42.841472,-1.0133135)"
-       x1="2.7612331"
-       y1="6.1102505"
-       x2="18.772917"
-       y2="18.693317" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient10935">

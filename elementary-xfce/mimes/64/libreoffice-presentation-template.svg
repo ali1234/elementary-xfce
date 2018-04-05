@@ -14,7 +14,7 @@
    width="64"
    height="64"
    id="svg3912"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="libreoffice-presentation-template.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -263,17 +263,6 @@
        fy="39.464806"
        r="3.5" />
     <linearGradient
-       id="linearGradient3147">
-      <stop
-         id="stop3149"
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3151"
-         style="stop-color:#000000;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient22140"
        id="linearGradient3161"
@@ -319,16 +308,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       y2="127.03607"
-       x2="75.779678"
-       y1="86"
-       x1="75.779678"
-       gradientTransform="matrix(-1,0,0,1,133.21779,919.36222)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3108"
-       xlink:href="#linearGradient6240"
-       inkscape:collect="always" />
-    <linearGradient
        id="linearGradient6240">
       <stop
          id="stop6242"
@@ -358,7 +337,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

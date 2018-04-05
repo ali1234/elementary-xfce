@@ -14,8 +14,8 @@
    height="24"
    id="svg4942"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 11">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="scanner.svg">
   <defs
      id="defs4944">
     <linearGradient
@@ -151,16 +151,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4035"
-       id="linearGradient4610"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.78604745,0,0,0.92476185,-0.83288355,1010.5712)"
-       x1="16.80644"
-       y1="20.620281"
-       x2="16.80644"
-       y2="42.728077" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3994-617-9-9"
        id="linearGradient4899"
        x1="33"
@@ -292,7 +282,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

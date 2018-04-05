@@ -14,7 +14,7 @@
    height="48"
    id="svg4079"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="google-chrome.svg">
   <defs
      id="defs4081">
@@ -158,16 +158,6 @@
        fx="62.625"
        fy="4.625"
        r="10.625" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4011"
-       id="linearGradient3906-0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-47.733515,-0.3572397)"
-       x1="71.204407"
-       y1="6.2375584"
-       x2="71.204407"
-       y2="44.340794" />
     <linearGradient
        id="linearGradient4011">
       <stop

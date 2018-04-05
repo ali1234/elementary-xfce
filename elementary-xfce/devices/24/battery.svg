@@ -126,16 +126,6 @@
        x1="30"
        gradientTransform="matrix(0.44,0,0,0.45945943,1.44,1.5135137)" />
     <linearGradient
-       spreadMethod="reflect"
-       gradientTransform="matrix(0.12740271,0,0,0.0779309,15.319254,9.9737096)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient2793-2-0-669-94-2"
-       id="linearGradient3457-7-6"
-       y2="-93.091553"
-       x2="-48.479328"
-       y1="-93.091553"
-       x1="-20.446733" />
-    <linearGradient
        id="linearGradient2793-2-0-669-94-2">
       <stop
          offset="0"

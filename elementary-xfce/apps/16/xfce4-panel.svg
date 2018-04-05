@@ -14,7 +14,7 @@
    width="16"
    height="16"
    id="svg1325"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="xfce4-panel.svg">
   <metadata
      id="metadata51">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,14 +135,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.5177196,1.0726872e-7,-1.6705603e-7,2.3636362,-4.9183319,-32.727271)" />
     <linearGradient
-       x1="9.5"
-       y1="12"
-       x2="9.5"
-       y2="36"
-       id="linearGradient3898"
-       xlink:href="#linearGradient2270"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
        x1="44"
        y1="24"
        x2="50"
@@ -159,24 +151,6 @@
          y="8"
          id="rect3974"
          style="fill:url(#linearGradient3976);fill-opacity:1;stroke:none" />
-    </mask>
-    <linearGradient
-       x1="44"
-       y1="24"
-       x2="50"
-       y2="24"
-       id="linearGradient3982"
-       xlink:href="#linearGradient3958"
-       gradientUnits="userSpaceOnUse" />
-    <mask
-       id="mask3978">
-      <rect
-         width="49"
-         height="32"
-         x="1"
-         y="8"
-         id="rect3980"
-         style="fill:url(#linearGradient3982);fill-opacity:1;stroke:none" />
     </mask>
     <linearGradient
        x1="44"

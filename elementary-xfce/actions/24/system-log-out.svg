@@ -14,7 +14,7 @@
    width="24"
    height="24"
    id="svg4102"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="system-log-out.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -39,15 +39,6 @@
   <defs
      id="defs4104">
     <linearGradient
-       x1="71.204407"
-       y1="6.2375584"
-       x2="71.204407"
-       y2="44.340794"
-       id="linearGradient3178"
-       xlink:href="#linearGradient4011"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.054054,0,0,1.054054,-51.611006,-1.727899)" />
-    <linearGradient
        id="linearGradient4011">
       <stop
          id="stop4013"
@@ -67,15 +58,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       x1="38.976662"
-       y1="59.967686"
-       x2="38.976662"
-       y2="8.0928917"
-       id="linearGradient3187"
-       xlink:href="#linearGradient4215"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.80392158,0,0,0.80392158,-1.72549,-2.3658945)" />
-    <linearGradient
        id="linearGradient4215">
       <stop
          id="stop4217"
@@ -86,15 +68,6 @@
          style="stop-color:#f0f0f0;stop-opacity:1"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       x1="21.346498"
-       y1="59.968513"
-       x2="21.346498"
-       y2="7.8025136"
-       id="linearGradient3189"
-       xlink:href="#linearGradient4223"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.80392158,0,0,0.80392158,-1.72549,-2.3658945)" />
     <linearGradient
        id="linearGradient4223">
       <stop
@@ -117,16 +90,6 @@
          style="stop-color:#000000;stop-opacity:0"
          offset="1" />
     </linearGradient>
-    <radialGradient
-       cx="62.625"
-       cy="4.625"
-       r="10.625"
-       fx="62.625"
-       fy="4.625"
-       id="radialGradient4100"
-       xlink:href="#linearGradient8838"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1647059,0,0,0.7529402,-111.56471,36.517647)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4011"

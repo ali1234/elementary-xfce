@@ -14,8 +14,8 @@
    width="24"
    height="24"
    id="svg4250"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="stock_xfburn-blank-cdrw.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="stock_xfburn-data-copy.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,15 +39,6 @@
   <defs
      id="defs4252">
     <linearGradient
-       x1="21.448364"
-       y1="15.5"
-       x2="21.448364"
-       y2="32.509201"
-       id="linearGradient3068"
-       xlink:href="#linearGradient3428"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4374999,0,0,0.4374999,1.5,9.4999996)" />
-    <linearGradient
        id="linearGradient3428">
       <stop
          id="stop3430"
@@ -59,15 +50,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       x1="18.775953"
-       y1="4.0378027"
-       x2="18.203465"
-       y2="45.962208"
-       id="linearGradient3065"
-       xlink:href="#linearGradient6036"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.2272999,0,0,-0.2272999,6.4659271,25.682498)" />
-    <linearGradient
        id="linearGradient6036">
       <stop
          id="stop6038"
@@ -78,15 +60,6 @@
          style="stop-color:#ffffff;stop-opacity:0"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       x1="71.204407"
-       y1="6.2375584"
-       x2="71.204407"
-       y2="44.340794"
-       id="linearGradient4112"
-       xlink:href="#linearGradient4011"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.45945944,0,0,0.45945944,-20.958749,8.3493769)" />
     <linearGradient
        id="linearGradient4011">
       <stop
@@ -256,15 +229,6 @@
        y1="32.4165"
        x2="35.391201"
        y2="14.2033"
-       id="linearGradient3072"
-       xlink:href="#linearGradient3263"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,0.54545936,-0.54545936,0,24.600113,6.908972)" />
-    <linearGradient
-       x1="12.2744"
-       y1="32.4165"
-       x2="35.391201"
-       y2="14.2033"
        id="linearGradient3263"
        gradientUnits="userSpaceOnUse">
       <stop
@@ -280,15 +244,6 @@
          style="stop-color:#d2d2d2;stop-opacity:1"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       x1="-21.915663"
-       y1="3"
-       x2="-21.915663"
-       y2="45.032898"
-       id="linearGradient3074"
-       xlink:href="#linearGradient3772"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4656319,0,0,0.4656319,24.22985,8.8248332)" />
     <linearGradient
        id="linearGradient3772">
       <stop
@@ -311,16 +266,6 @@
          style="stop-color:#000000;stop-opacity:0"
          offset="1" />
     </linearGradient>
-    <radialGradient
-       cx="23.334524"
-       cy="41.63604"
-       r="22.627417"
-       fx="23.334524"
-       fy="41.63604"
-       id="radialGradient4248"
-       xlink:href="#linearGradient23419"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.48613589,0,0,0.1546652,0.65624961,21.060353)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3428"
@@ -541,7 +486,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

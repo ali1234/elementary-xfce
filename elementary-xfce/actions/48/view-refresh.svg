@@ -14,7 +14,7 @@
    height="48px"
    id="svg2474"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="view-refresh.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1">
@@ -91,32 +91,6 @@
          id="stop3545"
          style="stop-color:#2b63a0;stop-opacity:1;"
          offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3266">
-      <stop
-         style="stop-color:#387ab8;stop-opacity:1"
-         offset="0"
-         id="stop3268" />
-      <stop
-         style="stop-color:#387ab8;stop-opacity:0;"
-         offset="1"
-         id="stop3270" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3319">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="0"
-         id="stop3321" />
-      <stop
-         id="stop3323"
-         offset="0.57424062"
-         style="stop-color:#ffffff;stop-opacity:0.14383562;" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop3325" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"

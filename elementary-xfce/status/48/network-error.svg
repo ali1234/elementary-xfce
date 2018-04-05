@@ -14,7 +14,7 @@
    width="48"
    height="48"
    id="svg4460"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="network-error.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -206,55 +206,6 @@
        xlink:href="#linearGradient3820-7-2-1"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.1666667,0,155.14216)" />
-    <linearGradient
-       x1="63.397362"
-       y1="-12.489107"
-       x2="63.397362"
-       y2="5.4675598"
-       id="linearGradient3066"
-       xlink:href="#linearGradient4873"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0862728,0,0,1.0862481,-31.56661,39.813638)" />
-    <linearGradient
-       id="linearGradient4873">
-      <stop
-         id="stop4875"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4877"
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3242">
-      <stop
-         id="stop3244"
-         style="stop-color:#f8b17e;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3246"
-         style="stop-color:#e35d4f;stop-opacity:1"
-         offset="0.26238" />
-      <stop
-         id="stop3248"
-         style="stop-color:#c6262e;stop-opacity:1"
-         offset="0.66093999" />
-      <stop
-         id="stop3250"
-         style="stop-color:#690b54;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <radialGradient
-       cx="23.407145"
-       cy="3.9900031"
-       r="20.397499"
-       fx="23.407145"
-       fy="3.9900031"
-       id="radialGradient3071"
-       xlink:href="#linearGradient3242"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,1.4039288,-1.8531612,0,43.394119,-8.838349)" />
     <linearGradient
        gradientTransform="matrix(0.48890916,0,0,0.48839827,0.26618161,0.74232159)"
        gradientUnits="userSpaceOnUse"

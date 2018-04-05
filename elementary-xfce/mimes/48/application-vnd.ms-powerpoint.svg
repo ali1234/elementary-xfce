@@ -163,64 +163,6 @@
        gradientUnits="userSpaceOnUse"
        id="linearGradient3170"
        xlink:href="#linearGradient3104-6" />
-    <linearGradient
-       id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3">
-      <stop
-         offset="0"
-         style="stop-color:#90dbec;stop-opacity:1"
-         id="stop3750-1-0" />
-      <stop
-         offset="0.26238"
-         style="stop-color:#55c1ec;stop-opacity:1"
-         id="stop3752-3-7" />
-      <stop
-         offset="0.704952"
-         style="stop-color:#3689e6;stop-opacity:1"
-         id="stop3754-1-8" />
-      <stop
-         offset="1"
-         style="stop-color:#2b63a0;stop-opacity:1"
-         id="stop3756-1-6" />
-    </linearGradient>
-    <radialGradient
-       r="12.671875"
-       fy="9.9571075"
-       fx="5.118885"
-       cy="9.9571075"
-       cx="5.6491151"
-       gradientTransform="matrix(-1.5324784e-7,6.4910062,-7.6705026,-1.9484253e-7,99.953972,-58.68638)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient4200"
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3" />
-    <radialGradient
-       cx="8.276144"
-       cy="9.9941158"
-       r="12.671875"
-       fx="8.276144"
-       fy="9.9941158"
-       id="radialGradient3988-4"
-       xlink:href="#linearGradient3242-4"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,7.3972221,-9.0814262,0,114.84104,-71.20314)" />
-    <linearGradient
-       id="linearGradient3242-4">
-      <stop
-         id="stop3244-7"
-         style="stop-color:#f89b7e;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3246-1"
-         style="stop-color:#e35d4f;stop-opacity:1"
-         offset="0.26238" />
-      <stop
-         id="stop3248-5"
-         style="stop-color:#c6262e;stop-opacity:1"
-         offset="0.66093999" />
-      <stop
-         id="stop3250-7"
-         style="stop-color:#690b2c;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
     <radialGradient
        cx="6.5633106"
        cy="9.9571075"
@@ -259,7 +201,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

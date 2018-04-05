@@ -14,7 +14,7 @@
    height="128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    inkscape:export-filename="/home/ochosi/banshee_128.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -43,17 +43,6 @@
          id="stop3857"
          offset="1"
          style="stop-color:#347ac3;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3837">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop3839" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop3841" />
     </linearGradient>
     <linearGradient
        id="linearGradient3828">
@@ -143,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

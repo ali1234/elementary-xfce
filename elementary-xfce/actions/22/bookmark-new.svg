@@ -13,7 +13,7 @@
    width="22"
    version="1.1"
    sodipodi:docname="bookmark-new.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="0.91 r13725">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -86,17 +86,6 @@
          id="stop3854" />
     </linearGradient>
     <linearGradient
-       id="linearGradient8838">
-      <stop
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1"
-         id="stop8840" />
-      <stop
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0"
-         id="stop8842" />
-    </linearGradient>
-    <linearGradient
        gradientTransform="matrix(0.77056228,0,0,0.77077837,-5.5542787,-6.6994037)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient3881"
@@ -124,16 +113,6 @@
        r="13.931416"
        cy="23.145433"
        cx="13.138569" />
-    <radialGradient
-       gradientTransform="matrix(1.0352941,0,0,0.42352883,-52.835297,17.541176)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient8838"
-       id="radialGradient3049"
-       fy="4.625"
-       fx="62.625"
-       r="10.625"
-       cy="4.625"
-       cx="62.625" />
     <radialGradient
        gradientTransform="matrix(0,0.52544994,-0.5716256,0,46.193389,-21.123812)"
        gradientUnits="userSpaceOnUse"
@@ -228,7 +207,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

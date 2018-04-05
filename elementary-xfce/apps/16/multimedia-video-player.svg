@@ -8,11 +8,26 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="16"
    height="16"
-   id="svg6664">
+   id="svg6664"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="multimedia-video-player.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview51" />
   <defs
      id="defs6666">
     <radialGradient
@@ -116,31 +131,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.91666982,0,574.20254)" />
     <linearGradient
-       x1="24"
-       y1="5.3301001"
-       x2="24"
-       y2="43"
-       id="linearGradient6699"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.7297298,0,0,2.7297298,-1.5135111,-62.513486)">
-      <stop
-         id="stop6701"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop6703"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
-         offset="0.02982479" />
-      <stop
-         id="stop6705"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
-         offset="0.9614116" />
-      <stop
-         id="stop6707"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
        x1="598.76581"
        y1="475.70004"
        x2="598.76581"
@@ -148,23 +138,6 @@
        id="linearGradient4352"
        xlink:href="#linearGradient3173"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       x1="24"
-       y1="44"
-       x2="24"
-       y2="3.8989999"
-       id="linearGradient6710"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.641026,0,0,2.641026,0.6153903,-60.384616)">
-      <stop
-         id="stop6712"
-         style="stop-color:#791235;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop6714"
-         style="stop-color:#bf1d09;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
     <linearGradient
        x1="598.76581"
        y1="475.70004"
@@ -174,23 +147,6 @@
        xlink:href="#linearGradient3173"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       x1="24"
-       y1="44"
-       x2="24"
-       y2="3.8989999"
-       id="linearGradient6717"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.641026,0,0,2.641026,0.6153903,-60.384616)">
-      <stop
-         id="stop6719"
-         style="stop-color:#791235;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop6721"
-         style="stop-color:#bf1d09;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
        x1="525"
        y1="398.4903"
        x2="525"
@@ -199,31 +155,6 @@
        xlink:href="#linearGradient3128"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-1,0,0,0.91666982,1064,574.20254)" />
-    <linearGradient
-       x1="24"
-       y1="5.3301001"
-       x2="24"
-       y2="43"
-       id="linearGradient6724"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.7297298,0,0,2.7297298,-1.5135111,-62.513486)">
-      <stop
-         id="stop6726"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop6728"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
-         offset="0.02982479" />
-      <stop
-         id="stop6730"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
-         offset="0.9614116" />
-      <stop
-         id="stop6732"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
-         offset="1" />
-    </linearGradient>
   </defs>
   <metadata
      id="metadata6669">

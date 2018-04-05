@@ -14,7 +14,7 @@
    width="16"
    height="16"
    id="svg3792"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="media-playback-pause.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -46,16 +46,6 @@
   </sodipodi:namedview>
   <defs
      id="defs3794">
-    <radialGradient
-       cx="21.385109"
-       cy="-19.005346"
-       r="19.99999"
-       fx="21.385109"
-       fy="-19.005346"
-       id="radialGradient3008"
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,1.5000006,-1.5241254,0,-16.959842,-23.077676)" />
     <linearGradient
        id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4">
       <stop
@@ -95,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

@@ -14,7 +14,7 @@
    width="32"
    height="32"
    id="svg5254"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="xchat-gnome.svg">
   <metadata
      id="metadata100305">
@@ -129,27 +129,6 @@
        xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-905-902-285-933"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,1.1659136,-0.95912177,0,19.974251,-21.445665)" />
-    <linearGradient
-       id="linearGradient4593-546-445-547-865-203">
-      <stop
-         id="stop4164"
-         style="stop-color:#ffffff;stop-opacity:0.70200002"
-         offset="0" />
-      <stop
-         id="stop4166"
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <radialGradient
-       cx="24.016491"
-       cy="2.2461414"
-       r="21.995602"
-       fx="24.016491"
-       fy="2.2461414"
-       id="radialGradient2894-287-430-321"
-       xlink:href="#linearGradient4593-546-445-547-865-203"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,0.90756801,-0.77098914,0,17.735967,-18.018413)" />
     <linearGradient
        id="linearGradient3725-941-985-508-595-572-135-693">
       <stop

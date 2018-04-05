@@ -14,7 +14,7 @@
    height="22"
    width="22"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="caffeine-cup-empty.svg">
   <defs
      id="defs3199">
@@ -39,26 +39,6 @@
        y2="21"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4787"
-       id="linearGradient2992"
-       gradientUnits="userSpaceOnUse"
-       x1="12"
-       y1="2"
-       x2="12"
-       y2="21"
-       gradientTransform="translate(1.634314,-16.615467)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3587-6-5-8"
-       id="linearGradient2989"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.191199,6.438695)"
-       x1="11.191199"
-       y1="3.561305"
-       x2="11.191199"
-       y2="17.561304" />
-    <linearGradient
        id="linearGradient3587-6-5-8">
       <stop
          id="stop3589-9-2-4"
@@ -70,54 +50,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       y2="17.561304"
-       x2="11.191199"
-       y1="3.561305"
-       x1="11.191199"
-       gradientTransform="translate(-20.191199,-2.561305)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3007"
-       xlink:href="#linearGradient3587-6-5-8"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3587-6-5-8"
-       id="linearGradient3789"
-       x1="11"
-       y1="8"
-       x2="11"
-       y2="21"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3587-6-5-8"
-       id="linearGradient3797"
-       x1="11"
-       y1="8"
-       x2="11"
-       y2="21"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3587-6-5-8"
-       id="linearGradient3803"
-       gradientUnits="userSpaceOnUse"
-       x1="11"
-       y1="8"
-       x2="11"
-       y2="21"
-       gradientTransform="translate(-1,-1)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3587-6-5-8"
-       id="linearGradient3805"
-       gradientUnits="userSpaceOnUse"
-       x1="11"
-       y1="8"
-       x2="11"
-       y2="21"
-       gradientTransform="translate(-1,-1)" />
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3587-6-5-8"
        id="linearGradient3808"
@@ -127,36 +59,6 @@
        y1="11.16047"
        x2="11"
        y2="23" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4787-3"
-       id="linearGradient3011"
-       gradientUnits="userSpaceOnUse"
-       x1="12"
-       y1="2"
-       x2="12"
-       y2="21" />
-    <linearGradient
-       id="linearGradient4787-3">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop4789-0" />
-      <stop
-         style="stop-color:#363636;stop-opacity:1;"
-         offset="1"
-         id="stop4791-2" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="translate(-2,13)"
-       y2="21"
-       x2="12"
-       y1="2"
-       x1="12"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3028"
-       xlink:href="#linearGradient4787-3"
-       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"

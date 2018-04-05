@@ -14,7 +14,7 @@
    height="128"
    id="svg1307"
    sodipodi:version="0.32"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="xfce4-notes-plugin.svg"
    inkscape:export-filename="/home/ulisse/icone/sticky-notes/scalable/sticky-notes.png"
    inkscape:export-xdpi="90"
@@ -610,7 +610,7 @@
             <dc:title>Ulisse Perusin</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title></dc:title>
+        <dc:title />
         <dc:contributor>
           <cc:Agent>
             <dc:title>Lapo Calamandrei</dc:title>

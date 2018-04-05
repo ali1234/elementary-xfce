@@ -14,7 +14,7 @@
    width="22"
    height="22"
    id="svg11300"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="jockey.svg">
   <metadata
      id="metadata151095">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,17 +110,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       id="linearGradient14993">
-      <stop
-         id="stop14995"
-         style="stop-color:black;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop14997"
-         style="stop-color:black;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
        x1="16.964844"
        y1="20.165941"
        x2="18.968426"
@@ -175,16 +164,6 @@
        xlink:href="#linearGradient14780-7-6"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.56326439,-2,-5.3017489)" />
-    <radialGradient
-       cx="21.5"
-       cy="44.75"
-       r="17"
-       fx="21.5"
-       fy="44.75"
-       id="radialGradient3259"
-       xlink:href="#linearGradient14993"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.64705885,0,0,0.17647041,-2.911765,13.103433)" />
     <radialGradient
        cx="15"
        cy="19.770353"

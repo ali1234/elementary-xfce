@@ -13,7 +13,7 @@
    width="22"
    version="1.1"
    sodipodi:docname="contact-new.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="0.91 r13725">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -89,61 +89,6 @@
          style="stop-color:#ffffff;stop-opacity:0.39215687"
          id="stop3203-5" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient5048-3">
-      <stop
-         offset="0"
-         style="stop-color:#000000;stop-opacity:0"
-         id="stop5050-0" />
-      <stop
-         offset="0.5"
-         style="stop-color:#000000;stop-opacity:1"
-         id="stop5056-7" />
-      <stop
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0"
-         id="stop5052-3" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5060-7">
-      <stop
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1"
-         id="stop5062-2" />
-      <stop
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0"
-         id="stop5064-6" />
-    </linearGradient>
-    <radialGradient
-       gradientTransform="matrix(0.01204859,0,0,0.0082353,27.23879,17.980564)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient5060-7"
-       id="radialGradient3170"
-       fy="486.64789"
-       fx="605.71429"
-       r="117.14286"
-       cy="486.64789"
-       cx="605.71429" />
-    <radialGradient
-       gradientTransform="matrix(-0.01204859,0,0,0.0082353,10.76121,17.980564)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient5060-7"
-       id="radialGradient3173"
-       fy="486.64789"
-       fx="605.71429"
-       r="117.14286"
-       cy="486.64789"
-       cx="605.71429" />
-    <linearGradient
-       gradientTransform="matrix(0.0352071,0,0,0.0082353,-0.72485,17.980547)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient5048-3"
-       id="linearGradient3176"
-       y2="609.50507"
-       x2="302.85715"
-       y1="366.64789"
-       x1="302.85715" />
     <linearGradient
        gradientTransform="matrix(0.89189189,0,0,1.0540541,-12.400121,-14.207467)"
        gradientUnits="userSpaceOnUse"
@@ -266,7 +211,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

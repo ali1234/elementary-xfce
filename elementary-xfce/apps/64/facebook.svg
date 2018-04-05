@@ -14,8 +14,8 @@
    height="64"
    id="svg4228"
    version="1.1"
-   inkscape:version="0.48+devel r"
-   sodipodi:docname="facebook-without-detail.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="facebook.svg">
   <defs
      id="defs4230">
     <linearGradient
@@ -218,26 +218,6 @@
        id="linearGradient4226"
        xlink:href="#linearGradient3702-501-757"
        inkscape:collect="always" />
-    <linearGradient
-       x1="16.626165"
-       y1="15.298182"
-       x2="20.054544"
-       y2="24.627615"
-       id="linearGradient3221"
-       xlink:href="#linearGradient8265-821-176-38-919-66-249-7-7"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1723402,0,0,1.8434139,3.808988,-21.529984)" />
-    <linearGradient
-       id="linearGradient8265-821-176-38-919-66-249-7-7">
-      <stop
-         id="stop2687-1-9"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop2689-5-4"
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -270,7 +250,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

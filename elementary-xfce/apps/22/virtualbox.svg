@@ -14,7 +14,7 @@
    height="22"
    id="svg3658"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="virtualbox.svg"
    style="enable-background:new">
   <defs
@@ -121,52 +121,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       id="linearGradient3688-166-749">
-      <stop
-         offset="0"
-         style="stop-color:#181818;stop-opacity:1"
-         id="stop2883" />
-      <stop
-         offset="1"
-         style="stop-color:#181818;stop-opacity:0"
-         id="stop2885" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3688-464-309">
-      <stop
-         offset="0"
-         style="stop-color:#181818;stop-opacity:1"
-         id="stop2889" />
-      <stop
-         offset="1"
-         style="stop-color:#181818;stop-opacity:0"
-         id="stop2891" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3702-501-757">
-      <stop
-         offset="0"
-         style="stop-color:#181818;stop-opacity:0"
-         id="stop2895" />
-      <stop
-         offset="0.5"
-         style="stop-color:#181818;stop-opacity:1"
-         id="stop2897" />
-      <stop
-         offset="1"
-         style="stop-color:#181818;stop-opacity:0"
-         id="stop2899" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3707-319-631-407-1-846-9"
-       id="linearGradient3374-0"
-       gradientUnits="userSpaceOnUse"
-       x1="19.874987"
-       y1="44.520065"
-       x2="19.874987"
-       y2="5.2502403" />
-    <linearGradient
        id="linearGradient3707-319-631-407-1-846-9">
       <stop
          offset="0"
@@ -179,46 +133,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3707-319-631-407-1-4-477-1"
-       id="linearGradient3372-1"
-       gradientUnits="userSpaceOnUse"
-       x1="19.874987"
-       y1="44.520065"
-       x2="19.874987"
-       y2="5.2502403" />
-    <linearGradient
-       id="linearGradient3707-319-631-407-1-4-477-1">
-      <stop
-         offset="0"
-         style="stop-color:#365a7c;stop-opacity:1"
-         id="stop3782-5" />
-      <stop
-         offset="1"
-         style="stop-color:#5ea1ca;stop-opacity:1;"
-         id="stop3784-9" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3707-319-631-407-1-9-274-7"
-       id="linearGradient3370-7"
-       gradientUnits="userSpaceOnUse"
-       x1="19.874987"
-       y1="44.520065"
-       x2="19.874987"
-       y2="5.2502403" />
-    <linearGradient
-       id="linearGradient3707-319-631-407-1-9-274-7">
-      <stop
-         offset="0"
-         style="stop-color:#365a7c;stop-opacity:1"
-         id="stop3776-6" />
-      <stop
-         offset="1"
-         style="stop-color:#5ea1ca;stop-opacity:1;"
-         id="stop3778-7" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3707-319-631-407-1-846-9"
        id="linearGradient3858"
        x1="22"
@@ -227,16 +141,6 @@
        y2="-5"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.49999999,0,0,0.49999999,-1,24.5)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3707-319-631-407-1-4-477-1"
-       id="linearGradient3872"
-       gradientUnits="userSpaceOnUse"
-       x1="22"
-       y1="53"
-       x2="23"
-       y2="-5"
-       gradientTransform="matrix(0.375,0,0,0.375,5,25.625)" />
     <filter
        inkscape:collect="always"
        id="filter3890"
@@ -257,15 +161,6 @@
        y2="6"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.5,0,0,0.5,-1,24.5)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3707-319-631-407-1-4-477-1"
-       id="linearGradient3912"
-       gradientUnits="userSpaceOnUse"
-       x1="25"
-       y1="44"
-       x2="25"
-       y2="6" />
   </defs>
   <sodipodi:namedview
      id="base"

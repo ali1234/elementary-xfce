@@ -14,8 +14,8 @@
    width="48"
    height="48"
    id="svg4431"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="audio-volume-high.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="audio-volume-low.svg"
    sodipodi:version="0.32"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/ochosi/volume-low.png"
@@ -29,7 +29,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

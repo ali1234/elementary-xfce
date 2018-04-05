@@ -14,8 +14,8 @@
    width="24"
    height="24"
    id="svg4524"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="media-backward.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="media-seek-backward.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,16 +38,6 @@
      inkscape:current-layer="svg4524" />
   <defs
      id="defs4526">
-    <radialGradient
-       cx="16.202444"
-       cy="-19.005346"
-       r="19.99999"
-       fx="16.202444"
-       fy="-19.005346"
-       id="radialGradient3008-6"
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4-1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,1.5000006,-1.5241254,0,-16.959842,-23.077676)" />
     <linearGradient
        id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4-1">
       <stop
@@ -87,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

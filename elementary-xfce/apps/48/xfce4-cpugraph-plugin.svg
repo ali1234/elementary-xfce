@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="cpugraph.svg"
-   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="xfce4-cpugraph-plugin.svg"
+   inkscape:version="0.91 r13725"
    version="1.1"
    id="svg5703"
    height="48px"
@@ -227,27 +227,6 @@
        xlink:href="#linearGradient3702-501-757-6-946-8"
        inkscape:collect="always" />
     <linearGradient
-       spreadMethod="reflect"
-       gradientTransform="matrix(0.7365163,0,0,0.7204767,115.8268,18.931526)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient4543-180-9"
-       id="linearGradient2575-4-169-7"
-       y2="-19.026062"
-       x2="-97.480377"
-       y1="-10.230078"
-       x1="-110.57743" />
-    <linearGradient
-       id="linearGradient4543-180-9">
-      <stop
-         id="stop5315-5"
-         style="stop-color:#8e9192;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop5317-6"
-         style="stop-color:#e4e7e9;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3967"
        id="linearGradient4898"
@@ -306,7 +285,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

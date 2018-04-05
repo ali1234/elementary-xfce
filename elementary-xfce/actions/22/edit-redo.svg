@@ -12,7 +12,7 @@
    height="22"
    width="22"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="edit-redo.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -74,27 +74,6 @@
        y1="4.8447866"
        x1="23.731871" />
     <linearGradient
-       id="linearGradient8662-7">
-      <stop
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1"
-         id="stop8664-0" />
-      <stop
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0"
-         id="stop8666-1" />
-    </linearGradient>
-    <radialGradient
-       gradientTransform="matrix(-0.52995454,0,0,-0.35307735,22.512547,29.835677)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient8662-7"
-       id="radialGradient3870"
-       fy="36.421127"
-       fx="24.837126"
-       r="15.644737"
-       cy="36.421127"
-       cx="24.837126" />
-    <linearGradient
        id="linearGradient3242-7-3-8-0-4-58-06">
       <stop
          id="stop3244-5-8-5-6-4-3-8"
@@ -122,7 +101,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

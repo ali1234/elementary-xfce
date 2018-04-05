@@ -14,19 +14,10 @@
    height="22"
    width="22"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="display-brightness-symbolic.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="xfpm-brightness-lcd.svg">
   <defs
      id="defs21">
-    <linearGradient
-       x1="159.68553"
-       y1="14.403693"
-       x2="159.68553"
-       y2="38.279892"
-       id="linearGradient2388"
-       xlink:href="#linearGradient3678"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.4100229,0,0,0.5447147,78.029995,-3.8459034)" />
     <linearGradient
        id="linearGradient3678">
       <stop
@@ -39,15 +30,6 @@
          style="stop-color:#e6e6e6;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0.4101105,0,0,0.5452071,-10.350926,1.4870267)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient3678"
-       id="linearGradient2390"
-       y2="34.003155"
-       x2="45.52272"
-       y1="0.94087785"
-       x1="45.52272" />
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3678"
        id="linearGradient3834"
@@ -56,16 +38,6 @@
        x2="15"
        y2="22"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3678"
-       id="linearGradient3849"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4101105,0,0,0.5452071,-36.87737,0.3197814)"
-       x1="45.52272"
-       y1="0.94087785"
-       x2="45.52272"
-       y2="34.003155" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"

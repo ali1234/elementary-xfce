@@ -14,8 +14,8 @@
    height="96"
    id="svg4112"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="libreoffice-drawing.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="libreoffice-drawing-template.svg">
   <defs
      id="defs4114">
     <linearGradient
@@ -199,16 +199,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3412"
-       id="linearGradient3058"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,4.0951621,-3.9802958,0,231.71999,862.63769)"
-       x1="30.739399"
-       y1="35.285313"
-       x2="45.902721"
-       y2="50.73642" />
-    <linearGradient
        id="linearGradient3412">
       <stop
          id="stop3414"
@@ -267,7 +257,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

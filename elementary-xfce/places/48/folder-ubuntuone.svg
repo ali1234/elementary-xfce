@@ -14,7 +14,7 @@
    height="48px"
    id="svg18433"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="folder-ubuntuone.svg">
   <defs
      id="defs18435">
@@ -229,17 +229,6 @@
        id="linearGradient18431"
        xlink:href="#linearGradient3104-8-8-97-4-6-2-0-1-4-0-5-8-3-5-7-9"
        inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient3587-6-5-3">
-      <stop
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1"
-         id="stop3589-9-2-2" />
-      <stop
-         offset="1"
-         style="stop-color:#363636;stop-opacity:1"
-         id="stop3591-7-4-73" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -268,7 +257,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

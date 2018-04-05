@@ -13,7 +13,7 @@
    viewBox="0 0 16 16"
    height="16"
    width="16"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="steam_tray_mono.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -51,33 +51,6 @@
          id="stop5255" />
     </linearGradient>
     <linearGradient
-       id="linearGradient4947">
-      <stop
-         id="stop4949"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
-      <stop
-         id="stop4951"
-         offset="1"
-         style="stop-color:#363636;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="1131.8831"
-       x2="64"
-       y1="964.44208"
-       x1="64"
-       id="linearGradient4955"
-       xlink:href="#linearGradient4947" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="1131.8831"
-       x2="64"
-       y1="964.44208"
-       x1="64"
-       id="linearGradient4955-1"
-       xlink:href="#linearGradient4947" />
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5251"
        id="linearGradient4146"
@@ -96,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

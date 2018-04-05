@@ -14,20 +14,10 @@
    height="16"
    id="svg4100"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="bluetooth.svg">
   <defs
      id="defs4102">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3707-319-631-407-324-3-8-4-6"
-       id="linearGradient3087-7"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-9.439619,-2.9984104)"
-       x1="11.801105"
-       y1="19.013813"
-       x2="11.801105"
-       y2="0.86377394" />
     <linearGradient
        id="linearGradient3707-319-631-407-324-3-8-4-6">
       <stop
@@ -165,7 +155,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

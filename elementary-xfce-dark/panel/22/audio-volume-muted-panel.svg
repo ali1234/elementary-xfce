@@ -15,7 +15,7 @@
    height="22"
    id="svg4431"
    sodipodi:version="0.32"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="audio-volume-muted-panel.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,36 +57,6 @@
   <defs
      id="defs4433">
     <linearGradient
-       x1="9"
-       y1="3"
-       x2="9"
-       y2="21"
-       id="linearGradient2393"
-       xlink:href="#linearGradient3678"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-2,-1)" />
-    <linearGradient
-       id="linearGradient3678">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop3680" />
-      <stop
-         style="stop-color:#e6e6e6;stop-opacity:1;"
-         offset="1"
-         id="stop3682" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3678-9"
-       id="linearGradient3624"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,-1,-2,24)"
-       x1="9"
-       y1="3"
-       x2="9"
-       y2="21" />
-    <linearGradient
        id="linearGradient3678-9">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -97,16 +67,6 @@
          offset="1"
          id="stop3682-8" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3678-9"
-       id="linearGradient3016"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,-1,-31.216867,23.987952)"
-       x1="9"
-       y1="3"
-       x2="9"
-       y2="21" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3678-9"

@@ -14,7 +14,7 @@
    width="64"
    height="64"
    id="svg11300"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="system-users.svg">
   <metadata
      id="metadata55">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -121,15 +121,6 @@
          style="stop-color:#000000;stop-opacity:0"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       x1="22"
-       y1="39"
-       x2="17"
-       y2="37.4375"
-       id="linearGradient4197"
-       xlink:href="#linearGradient5060"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.77777778,0,0,0.76190476,-8.3222223,4.5857142)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3985"

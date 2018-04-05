@@ -143,35 +143,6 @@
        x2="302.85715"
        y1="366.64789"
        x1="302.85715" />
-    <linearGradient
-       id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3">
-      <stop
-         id="stop3750-1-0"
-         style="stop-color:#90dbec;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3752-3-7"
-         style="stop-color:#55c1ec;stop-opacity:1"
-         offset="0.26238" />
-      <stop
-         id="stop3754-1-8"
-         style="stop-color:#3689e6;stop-opacity:1"
-         offset="0.704952" />
-      <stop
-         id="stop3756-1-6"
-         style="stop-color:#2b63a0;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <radialGradient
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3"
-       id="radialGradient3441"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-7.6630149e-8,3.5405486,-3.8355631,-1.0627773e-7,89.480521,-32.283476)"
-       cx="5.6491151"
-       cy="9.9571075"
-       fx="5.118885"
-       fy="9.9571075"
-       r="12.671875" />
     <radialGradient
        cx="6.5633106"
        cy="9.9571075"
@@ -210,7 +181,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

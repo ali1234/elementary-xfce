@@ -14,7 +14,7 @@
    width="16"
    height="16"
    id="svg3442"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="time-admin.svg">
   <metadata
      id="metadata1670">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -160,14 +160,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.3513515,0,0,0.3513512,-0.4324331,-0.4324291)" />
     <linearGradient
-       x1="7.5000005"
-       y1="11.638641"
-       x2="7.5000005"
-       y2="17.251301"
-       id="linearGradient6330"
-       xlink:href="#linearGradient3600"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
        id="linearGradient3600">
       <stop
          id="stop3602"
@@ -179,15 +171,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       x1="14.952554"
-       y1="45.380947"
-       x2="14.952554"
-       y2="13.214291"
-       id="linearGradient6752"
-       xlink:href="#linearGradient5354"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.2779042,0,0,0.2779042,0.8296966,9.8294111)" />
-    <linearGradient
        id="linearGradient5354">
       <stop
          id="stop5356"
@@ -198,26 +181,6 @@
          style="stop-color:#282828;stop-opacity:1"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3600"
-       id="linearGradient3058"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.64615412,0,0,0.64615411,-18.168191,1.7113394)"
-       x1="7.5000005"
-       y1="11.638641"
-       x2="7.5000005"
-       y2="17.251301" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5354"
-       id="linearGradient3060"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.17956894,0,0,0.17956894,-17.632079,8.0626538)"
-       x1="14.952554"
-       y1="45.380947"
-       x2="14.952554"
-       y2="13.214291" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3600"

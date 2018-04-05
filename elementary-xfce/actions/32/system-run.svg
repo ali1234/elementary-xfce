@@ -14,7 +14,7 @@
    width="32"
    height="32"
    id="svg2457"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="system-run.svg">
   <metadata
      id="metadata40218">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,51 +116,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-17.058189,0)" />
     <linearGradient
-       x1="25"
-       y1="0"
-       x2="25"
-       y2="16.000105"
-       id="linearGradient2967"
-       xlink:href="#linearGradient3309"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-17.058189,0)" />
-    <linearGradient
-       x1="21"
-       y1="0"
-       x2="21"
-       y2="16.004715"
-       id="linearGradient2969"
-       xlink:href="#linearGradient3397"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-17.058189,0)" />
-    <linearGradient
-       x1="86.132919"
-       y1="105.105"
-       x2="84.63858"
-       y2="20.895"
-       id="linearGradient2971"
-       xlink:href="#linearGradient5128"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.09614231,0,0,0.09614231,1.8468935,1.9430362)" />
-    <linearGradient
-       x1="25.030451"
-       y1="0.28819904"
-       x2="24.795872"
-       y2="15.37132"
-       id="linearGradient3791"
-       xlink:href="#linearGradient3309"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.69602538,0.71801718,-0.71801718,-0.69602538,28.302469,-1.7860371)" />
-    <linearGradient
-       x1="21"
-       y1="0"
-       x2="21"
-       y2="16.004715"
-       id="linearGradient3793"
-       xlink:href="#linearGradient3397"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.69602538,0.71801718,-0.71801718,-0.69602538,28.302469,-1.7860371)" />
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3309-1"
        id="linearGradient3614-2"
@@ -250,15 +205,6 @@
          offset="1"
          id="stop3809" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3805"
-       id="linearGradient3830"
-       x1="12"
-       y1="16"
-       x2="12"
-       y2="8"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        y2="8"
        x2="12"

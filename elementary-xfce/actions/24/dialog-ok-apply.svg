@@ -14,7 +14,7 @@
    height="24"
    id="svg2841"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.91 r13725"
    version="1.0"
    sodipodi:docname="dialog-ok-apply.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -43,17 +43,6 @@
        fx="11.25"
        fy="19.03125"
        r="8.0625" />
-    <linearGradient
-       id="linearGradient2264">
-      <stop
-         id="stop2266"
-         offset="0"
-         style="stop-color:#d7e866;stop-opacity:1;" />
-      <stop
-         id="stop2268"
-         offset="1"
-         style="stop-color:#8cab2a;stop-opacity:1;" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3400">

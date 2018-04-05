@@ -13,7 +13,7 @@
    viewBox="0 0 32 32"
    height="32"
    width="32"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="steam_tray_mono.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -58,15 +58,6 @@
        id="linearGradient4955"
        xlink:href="#linearGradient4947"
        gradientTransform="matrix(0.20299852,0,0,0.20380309,3.0080946,-185.43127)" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="1052.1493"
-       x2="64"
-       y1="924.57513"
-       x1="64"
-       id="linearGradient4955-9"
-       xlink:href="#linearGradient4947"
-       gradientTransform="matrix(0.20299852,0,0,0.20380309,3.0080945,-184.43127)" />
   </defs>
   <metadata
      id="metadata4389">
@@ -76,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

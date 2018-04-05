@@ -14,7 +14,7 @@
    height="48px"
    id="svg6875"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="midori.svg">
   <defs
      id="defs6877">
@@ -161,46 +161,6 @@
        id="radialGradient6873"
        xlink:href="#linearGradient3820-7-2-1"
        inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient3242-7-3-8-9-9-3">
-      <stop
-         offset="0"
-         style="stop-color:#eef87e;stop-opacity:1"
-         id="stop3244-5-8-5-3-6-0" />
-      <stop
-         offset="0.26238"
-         style="stop-color:#cde34f;stop-opacity:1"
-         id="stop3246-9-5-1-2-4-4" />
-      <stop
-         offset="0.66093999"
-         style="stop-color:#93b723;stop-opacity:1"
-         id="stop3248-7-2-0-84-3-1" />
-      <stop
-         offset="1"
-         style="stop-color:#5a7e0d;stop-opacity:1"
-         id="stop3250-8-2-8-3-37-9" />
-    </linearGradient>
-    <radialGradient
-       r="19.99999"
-       fy="8.5985041"
-       fx="8.894803"
-       cy="8.449769"
-       cx="18.164446"
-       gradientTransform="matrix(0,1.383947,-1.3045256,-1.5981176e-8,35.023057,-1.3375208)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient3034"
-       xlink:href="#linearGradient3242-7-3-8-9-9-3"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4806-2"
-       id="linearGradient3061"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.6169806,0,0,1.6169806,-92.976758,-21.262278)"
-       x1="71.204407"
-       y1="15.369057"
-       x2="71.204407"
-       y2="40.495617" />
   </defs>
   <sodipodi:namedview
      id="base"

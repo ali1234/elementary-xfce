@@ -13,7 +13,7 @@
    width="22"
    version="1.1"
    sodipodi:docname="audio-speakers.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.91 r13725">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -83,27 +83,6 @@
          id="stop4779"
          offset="1"
          style="stop-color:#ffffff;stop-opacity:0.17083333" />
-    </linearGradient>
-    <radialGradient
-       r="10.625"
-       fy="4.625"
-       fx="62.625"
-       cy="4.625"
-       cx="62.625"
-       gradientTransform="matrix(1.1294118,0,0,0.2823525,-58.729414,19.69412)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient3090"
-       xlink:href="#linearGradient4712" />
-    <linearGradient
-       id="linearGradient4712">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop4708" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop4710" />
     </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -296,7 +275,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

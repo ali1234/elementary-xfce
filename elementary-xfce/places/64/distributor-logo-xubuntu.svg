@@ -13,7 +13,7 @@
    height="64"
    id="svg3681"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="distributor-logo-xubuntu.svg"
    inkscape:export-filename="/data/knome/Open/Xubuntu/Logo/2017/icon-1024.png"
    inkscape:export-xdpi="1439.9995"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

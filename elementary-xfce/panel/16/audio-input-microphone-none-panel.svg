@@ -14,8 +14,8 @@
    height="16"
    id="svg3330"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="audio-input-microphone-high-panel.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="audio-input-microphone-none-panel.svg">
   <defs
      id="defs3332">
     <linearGradient
@@ -49,97 +49,6 @@
        y1="-0.079084992"
        x2="97.04393"
        y2="34.770058" />
-    <linearGradient
-       y2="34.770058"
-       x2="97.04393"
-       y1="-0.079084992"
-       x1="97.04393"
-       gradientTransform="matrix(0.4101105,0,0,0.5452071,-27.798735,-4.9568823)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3298-4"
-       xlink:href="#linearGradient3587-6-5-3-0-0"
-       inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient3587-6-5-3-0-0">
-      <stop
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1"
-         id="stop3589-9-2-2-7-0" />
-      <stop
-         offset="1"
-         style="stop-color:#363636;stop-opacity:1"
-         id="stop3591-7-4-73-6-8" />
-    </linearGradient>
-    <linearGradient
-       y2="34.770058"
-       x2="97.04393"
-       y1="12.760073"
-       x1="97.04393"
-       gradientTransform="matrix(0.4101105,0,0,0.5452071,-27.798735,-4.9568823)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3300-4"
-       xlink:href="#linearGradient3587-6-5-3-0-0"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3587-6-5-3-0-0"
-       id="linearGradient3033"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4101105,0,0,0.5452071,-27.798735,-4.9568823)"
-       x1="97.04393"
-       y1="-0.079084992"
-       x2="97.04393"
-       y2="34.770058" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3587-6-5-3-0-0"
-       id="linearGradient3035"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4101105,0,0,0.5452071,-27.798735,-4.9568823)"
-       x1="97.04393"
-       y1="12.760073"
-       x2="97.04393"
-       y2="34.770058" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3587-6-5-3-0-0"
-       id="linearGradient3136"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4101105,0,0,0.5452071,-27.798735,-4.9568823)"
-       x1="97.04393"
-       y1="-0.079084992"
-       x2="97.04393"
-       y2="34.770058" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3587-6-5-3-0-0"
-       id="linearGradient3138"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4101105,0,0,0.5452071,-27.798735,-4.9568823)"
-       x1="97.04393"
-       y1="12.760073"
-       x2="97.04393"
-       y2="34.770058" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3587-6-5-3-0-0"
-       id="linearGradient3141"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4101105,0,0,0.5452071,-9.36489,-14.343961)"
-       x1="97.04393"
-       y1="12.760073"
-       x2="97.04393"
-       y2="34.770058" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3587-6-5-3-0-0"
-       id="linearGradient3144"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4101105,0,0,0.5452071,-9.36489,-14.343961)"
-       x1="97.04393"
-       y1="-0.079084992"
-       x2="97.04393"
-       y2="34.770058" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -168,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

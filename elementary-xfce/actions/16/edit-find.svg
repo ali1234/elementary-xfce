@@ -15,7 +15,7 @@
    height="16"
    id="svg3222"
    sodipodi:version="0.32"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="edit-find.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
@@ -55,17 +55,6 @@
   </sodipodi:namedview>
   <defs
      id="defs3224">
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4"
-       id="radialGradient3062"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,0.9964861,-1.0668483,0,-12.270981,-20.309295)"
-       cx="21.385109"
-       cy="-19.005346"
-       fx="21.385109"
-       fy="-19.005346"
-       r="19.99999" />
     <linearGradient
        id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4">
       <stop
@@ -85,17 +74,6 @@
          style="stop-color:#3f3f3f;stop-opacity:1"
          offset="1" />
     </linearGradient>
-    <radialGradient
-       r="19.99999"
-       fy="-19.005346"
-       fx="21.385109"
-       cy="-19.005346"
-       cx="21.385109"
-       gradientTransform="matrix(0,0.9964861,-1.0668483,0,12.303316,-21.514114)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient3052"
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4"
-       inkscape:collect="always" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4"

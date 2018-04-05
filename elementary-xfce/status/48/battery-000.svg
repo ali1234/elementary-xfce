@@ -14,7 +14,7 @@
    width="48"
    height="48"
    id="svg2485"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="battery-000.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -185,15 +185,6 @@
        xlink:href="#linearGradient3820-7-2-1-2-6"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.2549024,0,0,0.07169133,-1.275361,29.153187)" />
-    <linearGradient
-       x1="13.681819"
-       y1="17.458462"
-       x2="17.77273"
-       y2="35.717499"
-       id="linearGradient5508"
-       xlink:href="#linearGradient3254-3-182-8-5"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4666658,0,0,2.0811612,-12.147667,-29.368634)" />
     <linearGradient
        x1="25.272734"
        y1="17.458462"

@@ -49,23 +49,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs2487">
-    <linearGradient
-       id="linearGradient5126">
-      <stop
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1"
-         id="stop5128" />
-      <stop
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:0"
-         id="stop5130" />
-    </linearGradient>
     <linearGradient
        id="linearGradient5118">
       <stop
@@ -126,16 +115,6 @@
        x1="30"
        gradientTransform="matrix(0.28,0,0,0.29729728,1.2799999,1.5673158)" />
     <linearGradient
-       spreadMethod="reflect"
-       gradientTransform="matrix(0.12740271,0,0,0.0779309,15.319254,9.9737096)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient2793-2-0-669-94-2"
-       id="linearGradient3457-7-6"
-       y2="-93.091553"
-       x2="-48.479328"
-       y1="-93.091553"
-       x1="-20.446733" />
-    <linearGradient
        id="linearGradient2793-2-0-669-94-2">
       <stop
          offset="0"
@@ -156,41 +135,6 @@
        x2="-45.761551"
        y1="-93.091553"
        x1="-17.12093" />
-    <radialGradient
-       gradientTransform="matrix(0.42857143,0,0,0.41754549,1.4285715,-7.5930002)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient5126"
-       id="radialGradient5132"
-       fy="7.5"
-       fx="16.5"
-       r="3.5"
-       cy="7.5"
-       cx="16.5" />
-    <linearGradient
-       id="linearGradient3820-7-2-1-2-6">
-      <stop
-         offset="0"
-         style="stop-color:#3d3d3d;stop-opacity:1"
-         id="stop3822-2-6-3-3-7" />
-      <stop
-         offset="0.5"
-         style="stop-color:#686868;stop-opacity:0.49803922"
-         id="stop3864-8-7-7-9-1" />
-      <stop
-         offset="1"
-         style="stop-color:#686868;stop-opacity:0"
-         id="stop3824-1-2-5-0-3" />
-    </linearGradient>
-    <radialGradient
-       gradientTransform="matrix(0.1274512,0,0,0.03584566,-0.6376805,7.076846)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient3820-7-2-1-2-6"
-       id="radialGradient5362"
-       fy="186.17059"
-       fx="99.157013"
-       r="62.769119"
-       cy="186.17059"
-       cx="99.157013" />
     <linearGradient
        gradientTransform="matrix(0.36666645,0,0,0.69707167,0.4833362,-9.333728)"
        gradientUnits="userSpaceOnUse"

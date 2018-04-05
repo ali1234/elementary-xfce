@@ -14,7 +14,7 @@
    height="22"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    version="1.0"
    sodipodi:docname="edit-clear.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -247,7 +247,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

@@ -14,23 +14,12 @@
    height="32"
    id="svg2491"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="go-previous.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1">
   <defs
      id="defs2493">
-    <linearGradient
-       id="linearGradient3166">
-      <stop
-         id="stop3168"
-         offset="0"
-         style="stop-color:#a7cc5c;stop-opacity:1;" />
-      <stop
-         id="stop3170"
-         offset="1"
-         style="stop-color:#789e2d;stop-opacity:1;" />
-    </linearGradient>
     <linearGradient
        id="linearGradient5113"
        inkscape:collect="always">
@@ -110,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

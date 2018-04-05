@@ -14,7 +14,7 @@
    height="48px"
    id="svg3145"
    sodipodi:version="0.32"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="ooo-writer.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1">
@@ -284,17 +284,6 @@
          id="stop2555" />
     </linearGradient>
     <linearGradient
-       y2="31.210939"
-       x2="23.575972"
-       y1="25.356892"
-       x1="23.575972"
-       spreadMethod="pad"
-       gradientTransform="matrix(0.8239774,-0.8548421,0.7471754,0.7309632,-8.8637518,30.46339)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient2636"
-       xlink:href="#linearGradient3155-40"
-       inkscape:collect="always" />
-    <linearGradient
        id="linearGradient3191-577-747-672">
       <stop
          style="stop-color:#a1a1a1;stop-opacity:1;"
@@ -305,16 +294,6 @@
          offset="1"
          id="stop2867" />
     </linearGradient>
-    <linearGradient
-       y2="41.391716"
-       x2="9.5220556"
-       y1="37.817223"
-       x1="5.7117834"
-       gradientTransform="matrix(0.6334257,-5.500901e-2,-3.910351e-2,0.6392777,15.285328,19.662335)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient2632-307"
-       xlink:href="#linearGradient3191-577-747-672"
-       inkscape:collect="always" />
     <linearGradient
        id="linearGradient3155-40-33">
       <stop
@@ -350,16 +329,6 @@
          offset="1"
          id="stop2861" />
     </linearGradient>
-    <linearGradient
-       y2="30.467169"
-       x2="11.083416"
-       y1="25.077497"
-       x1="10.86941"
-       gradientTransform="matrix(0.8006848,-0.8306768,0.8744329,0.8554595,-11.498625,27.256561)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient2630-763"
-       xlink:href="#linearGradient3155-40-33"
-       inkscape:collect="always" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3155-40"

@@ -14,7 +14,7 @@
    height="22"
    id="svg4063"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="google-chrome.svg">
   <defs
      id="defs4065">
@@ -136,38 +136,6 @@
          offset="1"
          id="stop4033-0-3-1" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8838-08-7-6-1"
-       id="radialGradient5841"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.94057728,0,0,0.32724168,101.13431,149.80035)"
-       cx="62.625"
-       cy="4.625"
-       fx="62.625"
-       fy="4.625"
-       r="10.625" />
-    <linearGradient
-       id="linearGradient8838-08-7-6-1">
-      <stop
-         id="stop8840-85-9-6-7"
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop8842-0-3-1-8"
-         style="stop-color:#000000;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       y2="44.340794"
-       x2="71.204407"
-       y1="6.2375584"
-       x1="71.204407"
-       gradientTransform="matrix(0.5135135,0,0,0.48648648,123.16387,130.9548)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3043"
-       xlink:href="#linearGradient4011"
-       inkscape:collect="always" />
     <linearGradient
        id="linearGradient4011">
       <stop

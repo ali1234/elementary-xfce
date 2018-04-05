@@ -14,7 +14,7 @@
    width="32"
    height="32"
    id="svg3721"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="accessories-calculator.svg"
    inkscape:export-filename="/home/sergio/Pictures/elementary-xfce/elementary-xfce/apps/32/accessories-calculator.png"
    inkscape:export-xdpi="90"
@@ -212,24 +212,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.44776979,0,0,0.36230207,31.253526,24.514675)" />
     <linearGradient
-       x1="24"
-       y1="17"
-       x2="24"
-       y2="4.9924679"
-       id="linearGradient3710"
-       xlink:href="#linearGradient3426"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.68965514,0,0,0.36363634,29.125053,15.428079)" />
-    <linearGradient
-       x1="24"
-       y1="17"
-       x2="24"
-       y2="4.9924679"
-       id="linearGradient3715"
-       xlink:href="#linearGradient3426"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.68965514,0,0,0.36363634,28.948276,9.5000011)" />
-    <linearGradient
        id="linearGradient3426">
       <stop
          id="stop3428"
@@ -240,15 +222,6 @@
          style="stop-color:#ffffff;stop-opacity:0"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       x1="24"
-       y1="17"
-       x2="24"
-       y2="4.9924679"
-       id="linearGradient3719"
-       xlink:href="#linearGradient3426"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.44827581,0,0,0.36363633,31.24138,19.500002)" />
     <linearGradient
        x1="24"
        y1="17"
