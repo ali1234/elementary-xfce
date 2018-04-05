@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -8,16 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   width="24"
-   height="24"
    id="svg3226"
-   sodipodi:version="0.32"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="bluetooth-active.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   height="24"
+   width="24"
+   version="1.0">
   <metadata
      id="metadata17">
     <rdf:RDF>
@@ -29,91 +21,59 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     inkscape:window-height="660"
-     inkscape:window-width="747"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     guidetolerance="10.0"
-     gridtolerance="10.0"
-     objecttolerance="10.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     id="base"
-     showgrid="true"
-     inkscape:zoom="8"
-     inkscape:cx="15.995072"
-     inkscape:cy="11.012048"
-     inkscape:window-x="617"
-     inkscape:window-y="271"
-     inkscape:current-layer="svg3226"
-     inkscape:window-maximized="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2992"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
   <defs
      id="defs3228">
     <linearGradient
-       x1="12.095703"
-       y1="4.0491958"
-       x2="12.095703"
-       y2="19.954636"
-       id="linearGradient3201"
+       gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient3587-6-5"
-       gradientUnits="userSpaceOnUse" />
+       id="linearGradient3201"
+       y2="19.954636"
+       x2="12.095703"
+       y1="4.0491958"
+       x1="12.095703" />
     <linearGradient
        id="linearGradient3587-6-5">
       <stop
-         id="stop3589-9-2"
+         offset="0"
          style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
+         id="stop3589-9-2" />
       <stop
-         id="stop3591-7-4"
+         offset="1"
          style="stop-color:#363636;stop-opacity:1"
-         offset="1" />
+         id="stop3591-7-4" />
     </linearGradient>
     <linearGradient
-       x1="14.313253"
-       y1="4.0000005"
-       x2="14.313253"
-       y2="20.001163"
-       id="linearGradient3209"
+       gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient3587-6-5"
-       gradientUnits="userSpaceOnUse" />
+       id="linearGradient3209"
+       y2="20.001163"
+       x2="14.313253"
+       y1="4.0000005"
+       x1="14.313253" />
   </defs>
   <g
-     style="opacity:0.6;stroke:#ffffff;stroke-opacity:1"
+     transform="translate(-3.4048462e-8,0.99999863)"
      id="g3216"
-     transform="translate(-3.4048462e-8,0.99999863)">
+     style="opacity:0.6;stroke:#ffffff;stroke-opacity:1">
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.41149473;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3218"
        d="M 11.788737,19.294254 15.294253,15.55392 8.7057475,8.9228629 m -10e-8,6.0660801 6.5885056,-6.6310583 -3.55157,-3.6521367"
-       inkscape:connector-curvature="0" />
+       id="path3218"
+       style="fill:none;stroke:#ffffff;stroke-width:1.41149473;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       id="path3220"
        d="m 11.507463,4.8748901 0.08824,14.1558389"
-       inkscape:connector-curvature="0" />
+       id="path3220"
+       style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
-     style="opacity:0.7"
-     id="g3212">
+     id="g3212"
+     style="opacity:0.7">
     <path
-       style="fill:none;stroke:url(#linearGradient3209);stroke-width:1.41149473;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3367"
        d="M 11.788737,19.294254 15.294253,15.55392 8.7057475,8.9228629 m -10e-8,6.0660801 6.5885056,-6.6310583 -3.55157,-3.6521367"
-       inkscape:connector-curvature="0" />
+       id="path3367"
+       style="fill:none;stroke:url(#linearGradient3209);stroke-width:1.41149473;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
-       style="fill:none;stroke:url(#linearGradient3201);stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       id="path3590"
        d="m 11.507463,4.8748901 0.08824,14.1558389"
-       inkscape:connector-curvature="0" />
+       id="path3590"
+       style="fill:none;stroke:url(#linearGradient3201);stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
