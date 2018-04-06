@@ -6,52 +6,52 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg2497"
+   width="16px"
    height="16px"
-   width="16px">
+   id="svg2497"
+   version="1.1">
   <defs
      id="defs2499">
     <linearGradient
        id="linearGradient2264">
       <stop
-         id="stop2266"
+         style="stop-color:#d7e866;stop-opacity:1;"
          offset="0"
-         style="stop-color:#d7e866;stop-opacity:1;" />
+         id="stop2266" />
       <stop
-         id="stop2268"
+         style="stop-color:#8cab2a;stop-opacity:1;"
          offset="1"
-         style="stop-color:#8cab2a;stop-opacity:1;" />
+         id="stop2268" />
     </linearGradient>
     <linearGradient
-       y2="20.709501"
-       x2="0.81572169"
-       y1="20.709501"
-       x1="28.314739"
-       gradientTransform="matrix(0,-0.319447,-0.313352,0,15.486281,15.08587)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2264"
        id="linearGradient2512"
-       xlink:href="#linearGradient2264" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.319447,-0.313352,0,15.486281,15.08587)"
+       x1="28.314739"
+       y1="20.709501"
+       x2="0.81572169"
+       y2="20.709501" />
     <linearGradient
        id="linearGradient4222">
       <stop
-         id="stop4224"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         id="stop4224" />
       <stop
-         id="stop4226"
+         style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0;" />
+         id="stop4226" />
     </linearGradient>
     <linearGradient
-       y2="25.410501"
-       x2="57.726395"
-       y1="25.410501"
-       x1="13.471772"
-       gradientTransform="matrix(0,0.3704967,-0.3617496,0,17.508315,-1.3320539)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4222"
        id="linearGradient2509"
-       xlink:href="#linearGradient4222" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.3704967,-0.3617496,0,17.508315,-1.3320539)"
+       x1="13.471772"
+       y1="25.410501"
+       x2="57.726395"
+       y2="25.410501" />
   </defs>
   <metadata
      id="metadata2502">
@@ -67,12 +67,12 @@
   <g
      id="layer1">
     <path
-       style="display:inline;fill:url(#linearGradient2512);fill-opacity:1;fill-rule:nonzero;stroke:#699536;stroke-width:0.99829447000000004;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;overflow:visible"
+       id="path3288"
        d="M 14.176046,7.5 L 7.9844847,14.500853 L 1.8239536,7.5 L 4.5,7.5 L 4.5,1.499147 L 11.5,1.499147 L 11.5,7.5 L 14.176046,7.5 z"
-       id="path3288" />
+       style="display:inline;fill:url(#linearGradient2512);fill-opacity:1;fill-rule:nonzero;stroke:#699536;stroke-width:0.99829447000000004;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;overflow:visible" />
     <path
-       style="display:inline;opacity:0.35400002000000003;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient2509);stroke-width:0.99829447000000004;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;overflow:visible"
+       id="path3290"
        d="M 11.926403,8.5 L 8,13.045115 L 3.9630618,8.5 L 5.5,8.5 L 5.5,2.5 L 10.5,2.5 L 10.5,8.5 L 11.926403,8.5 z"
-       id="path3290" />
+       style="display:inline;opacity:0.35400002000000003;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient2509);stroke-width:0.99829447000000004;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;overflow:visible" />
   </g>
 </svg>

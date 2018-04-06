@@ -6,33 +6,33 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg11300"
+   width="48px"
    height="48px"
-   width="48px">
+   id="svg11300"
+   version="1.1">
   <defs
      id="defs3">
     <linearGradient
        id="linearGradient11520">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1.0000000;"
+         id="stop11522"
          offset="0.0000000"
-         id="stop11522" />
+         style="stop-color:#ffffff;stop-opacity:1.0000000;" />
       <stop
-         style="stop-color:#dcdcdc;stop-opacity:1.0000000;"
+         id="stop11524"
          offset="1.0000000"
-         id="stop11524" />
+         style="stop-color:#dcdcdc;stop-opacity:1.0000000;" />
     </linearGradient>
     <radialGradient
-       r="20.530962"
-       fy="35.878170"
-       fx="24.445690"
-       cy="35.878170"
-       cx="24.445690"
-       gradientTransform="matrix(2.0391051,0,0,2.0391051,-25.847328,-36.563417)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient11520"
        id="radialGradient3009"
-       xlink:href="#linearGradient11520" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0391051,0,0,2.0391051,-25.847328,-36.563417)"
+       cx="24.445690"
+       cy="35.878170"
+       fx="24.445690"
+       fy="35.878170"
+       r="20.530962" />
   </defs>
   <metadata
      id="metadata4">
@@ -79,26 +79,26 @@
   <g
      id="layer1">
     <rect
-       style="fill:url(#radialGradient3009);fill-opacity:1;fill-rule:evenodd;stroke:#9b9b9b;stroke-width:1.05358744;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
-       id="rect11518"
-       width="40.946411"
-       height="40.946411"
-       x="3.5267944"
-       y="3.5267944"
+       ry="3.860249"
        rx="3.860249"
-       ry="3.860249" />
+       y="3.5267944"
+       x="3.5267944"
+       height="40.946411"
+       width="40.946411"
+       id="rect11518"
+       style="fill:url(#radialGradient3009);fill-opacity:1;fill-rule:evenodd;stroke:#9b9b9b;stroke-width:1.05358744;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible" />
     <rect
-       ry="3.0349534"
-       rx="3.0349534"
-       y="4.5267944"
-       x="4.5267944"
-       height="38.946411"
-       width="38.946411"
+       style="fill:none;stroke:#ffffff;stroke-width:1.0535872;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
        id="rect11528"
-       style="fill:none;stroke:#ffffff;stroke-width:1.0535872;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible" />
+       width="38.946411"
+       height="38.946411"
+       x="4.5267944"
+       y="4.5267944"
+       rx="3.0349534"
+       ry="3.0349534" />
     <path
-       id="path6930"
+       style="fill:#aaaba7;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="M 16.235294,12 12,16.235294 19.764707,24 12,31.764706 16.235294,36 24.000002,28.235294 31.764699,36 36,31.764706 28.235294,24 36,16.235294 31.764699,12 24.000002,19.764706 16.235294,12 z"
-       style="fill:#aaaba7;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       id="path6930" />
   </g>
 </svg>

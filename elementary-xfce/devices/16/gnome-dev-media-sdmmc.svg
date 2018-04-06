@@ -6,52 +6,52 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg2"
+   width="16"
    height="16"
-   width="16">
+   id="svg2"
+   version="1.1">
   <defs
      id="defs4">
     <linearGradient
        id="linearGradient6235">
       <stop
-         id="stop6237"
+         offset="0"
          style="stop-color:#505050;stop-opacity:1"
-         offset="0" />
+         id="stop6237" />
       <stop
-         id="stop6239"
+         offset="1"
          style="stop-color:#1e1e1e;stop-opacity:1"
-         offset="1" />
+         id="stop6239" />
     </linearGradient>
     <linearGradient
        id="linearGradient3659">
       <stop
-         id="stop3661"
+         offset="0"
          style="stop-color:#aa1e1e;stop-opacity:1"
-         offset="0" />
+         id="stop3661" />
       <stop
-         id="stop3663"
+         offset="1"
          style="stop-color:#e35d5d;stop-opacity:1"
-         offset="1" />
+         id="stop3663" />
     </linearGradient>
     <linearGradient
-       spreadMethod="reflect"
-       gradientUnits="userSpaceOnUse"
-       y2="1050.3622"
-       x2="7"
-       y1="1044.3622"
-       x1="7"
+       xlink:href="#linearGradient6235"
        id="linearGradient3815"
-       xlink:href="#linearGradient6235" />
-    <linearGradient
-       gradientTransform="matrix(1.1666666,0,0,1,-1.833333,1036.3622)"
+       x1="7"
+       y1="1044.3622"
+       x2="7"
+       y2="1050.3622"
        gradientUnits="userSpaceOnUse"
-       y2="3"
-       x2="8"
-       y1="13"
-       x1="8"
+       spreadMethod="reflect" />
+    <linearGradient
+       xlink:href="#linearGradient3659"
        id="linearGradient3842"
-       xlink:href="#linearGradient3659" />
+       x1="8"
+       y1="13"
+       x2="8"
+       y2="3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1666666,0,0,1,-1.833333,1036.3622)" />
   </defs>
   <metadata
      id="metadata7">
@@ -66,29 +66,29 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-1036.3622)"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-1036.3622)">
     <path
-       id="path3039"
+       style="fill:url(#linearGradient3815);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 2.5,1050.8622 0,-13 8.5,0 1.5,1.5 0,11.5 z"
-       style="fill:url(#linearGradient3815);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       id="path3039" />
     <path
-       id="path3834"
+       style="fill:url(#linearGradient3842);fill-opacity:1;stroke:none"
        d="m 4,1040.3622 0,9 7,0 0,-9 z"
-       style="fill:url(#linearGradient3842);fill-opacity:1;stroke:none" />
+       id="path3834" />
     <path
-       id="path3817"
+       style="opacity:0.2;fill:#141414;fill-opacity:1;stroke:none"
        d="m 4,1040.3622 7,0 0,2 -7,0 z"
-       style="opacity:0.2;fill:#141414;fill-opacity:1;stroke:none" />
+       id="path3817" />
     <text
-       id="text3804"
-       y="1048.3134"
-       x="4.9714355"
+       xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Sans Bold"
-       xml:space="preserve"><tspan
-         style="font-size:5px;fill:#ffffff;fill-opacity:1"
-         y="1048.3134"
+       x="4.9714355"
+       y="1048.3134"
+       id="text3804"><tspan
+         id="tspan3806"
          x="4.9714355"
-         id="tspan3806">SD</tspan></text>
+         y="1048.3134"
+         style="font-size:5px;fill:#ffffff;fill-opacity:1">SD</tspan></text>
   </g>
 </svg>

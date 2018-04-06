@@ -6,33 +6,33 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.0"
-   id="svg8472"
+   width="22"
    height="22"
-   width="22">
+   id="svg8472"
+   version="1.0">
   <defs
      id="defs8474">
     <linearGradient
        id="linearGradient8039">
       <stop
-         id="stop8041"
+         style="stop-color:#000000;stop-opacity:1;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         id="stop8041" />
       <stop
-         id="stop8043"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
+         id="stop8043" />
     </linearGradient>
     <radialGradient
-       r="3.0052037"
-       fy="439.65573"
-       fx="10.120466"
-       cy="439.65573"
-       cx="10.120466"
-       gradientTransform="matrix(1,0,0,0.4779412,0,229.52615)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient8039"
        id="radialGradient10171"
-       xlink:href="#linearGradient8039" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.4779412,0,229.52615)"
+       cx="10.120466"
+       cy="439.65573"
+       fx="10.120466"
+       fy="439.65573"
+       r="3.0052037" />
   </defs>
   <metadata
      id="metadata8477">
@@ -79,41 +79,41 @@
   <g
      id="layer1">
     <path
-       id="path7843"
+       style="fill:#729fcf;fill-rule:evenodd;stroke:#204a87;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 4.5,17.5 L 17.5,4.5"
-       style="fill:#729fcf;fill-rule:evenodd;stroke:#204a87;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path7843" />
     <path
-       transform="matrix(2.8521959,0,0,2.0886843,-21.865551,-900.30204)"
-       d="M 13.12567 439.65573 A 3.0052037 1.4363106 0 1 1  7.1152625,439.65573 A 3.0052037 1.4363106 0 1 1  13.12567 439.65573 z"
+       style="opacity:0.3;fill:url(#radialGradient10171);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path7829"
-       style="opacity:0.3;fill:url(#radialGradient10171);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="M 13.12567 439.65573 A 3.0052037 1.4363106 0 1 1  7.1152625,439.65573 A 3.0052037 1.4363106 0 1 1  13.12567 439.65573 z"
+       transform="matrix(2.8521959,0,0,2.0886843,-21.865551,-900.30204)" />
     <path
-       id="path7841"
+       style="fill:none;fill-rule:evenodd;stroke:#93b6db;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 4.5,17.5 L 17.5,4.5"
-       style="fill:none;fill-rule:evenodd;stroke:#93b6db;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path7841" />
     <g
-       transform="translate(-334,-419)"
-       id="g7849">
+       id="g7849"
+       transform="translate(-334,-419)">
       <path
-         id="path7837"
+         style="opacity:1;fill:#babdb6;fill-opacity:1;stroke:#888a85;stroke-width:1.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
          d="M 349.5,421.50001 L 353.5,421.50001 L 353.5,425.49995 L 349.5,425.49995 L 349.5,421.50001 z "
-         style="opacity:1;fill:#babdb6;fill-opacity:1;stroke:#888a85;stroke-width:1.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+         id="path7837" />
       <path
-         id="path7839"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.00000048;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
          d="M 350.5,422.50002 L 352.5,422.50002 L 352.5,424.5001 L 350.5,424.5001 L 350.5,422.50002 z "
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.00000048;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+         id="path7839" />
     </g>
     <g
-       transform="translate(-334,-419)"
-       id="g7845">
+       id="g7845"
+       transform="translate(-334,-419)">
       <path
-         id="path7831"
+         style="opacity:1;fill:#babdb6;fill-opacity:1;stroke:#888a85;stroke-width:1.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
          d="M 336.5,434.50001 L 340.5,434.50001 L 340.5,438.49995 L 336.5,438.49995 L 336.5,434.50001 z "
-         style="opacity:1;fill:#babdb6;fill-opacity:1;stroke:#888a85;stroke-width:1.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+         id="path7831" />
       <path
-         id="path7833"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.00000048;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
          d="M 337.5,435.50002 L 339.5,435.50002 L 339.5,437.5001 L 337.5,437.5001 L 337.5,435.50002 z "
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.00000048;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+         id="path7833" />
     </g>
   </g>
 </svg>

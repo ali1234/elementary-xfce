@@ -5,10 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg2"
+   height="16"
    width="16"
-   height="16">
+   id="svg2"
+   version="1.1">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -23,25 +23,25 @@
   <defs
      id="defs14" />
   <g
-     id="g4"
-     transform="translate(-713 191)">
+     transform="translate(-713 191)"
+     id="g4">
     <circle
-       id="circle6"
-       r="2"
-       fill="#666"
+       cx="716"
        cy="-183"
-       cx="716" />
+       fill="#666"
+       r="2"
+       id="circle6" />
     <circle
-       id="circle8"
-       r="2"
-       fill="#666"
+       cx="721"
        cy="-183"
-       cx="721" />
+       fill="#666"
+       r="2"
+       id="circle8" />
     <circle
-       id="circle10"
-       r="2"
-       fill="#666"
+       cx="726"
        cy="-183"
-       cx="726" />
+       fill="#666"
+       r="2"
+       id="circle10" />
   </g>
 </svg>

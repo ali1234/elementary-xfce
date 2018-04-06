@@ -6,33 +6,33 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg11300"
+   width="48px"
    height="48px"
-   width="48px">
+   id="svg11300"
+   version="1.1">
   <defs
      id="defs3">
     <linearGradient
        id="linearGradient11520">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1.0000000;"
+         id="stop11522"
          offset="0.0000000"
-         id="stop11522" />
+         style="stop-color:#ffffff;stop-opacity:1.0000000;" />
       <stop
-         style="stop-color:#dcdcdc;stop-opacity:1.0000000;"
+         id="stop11524"
          offset="1.0000000"
-         id="stop11524" />
+         style="stop-color:#dcdcdc;stop-opacity:1.0000000;" />
     </linearGradient>
     <radialGradient
-       r="20.530962"
-       fy="35.878170"
-       fx="24.445690"
-       cy="35.878170"
-       cx="24.445690"
-       gradientTransform="matrix(2.0391051,0,0,2.0391051,-25.847328,-36.563417)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient11520"
        id="radialGradient3009"
-       xlink:href="#linearGradient11520" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0391051,0,0,2.0391051,-25.847328,-36.563417)"
+       cx="24.445690"
+       cy="35.878170"
+       fx="24.445690"
+       fy="35.878170"
+       r="20.530962" />
   </defs>
   <metadata
      id="metadata4">
@@ -79,26 +79,26 @@
   <g
      id="layer1">
     <rect
-       style="fill:url(#radialGradient3009);fill-opacity:1;fill-rule:evenodd;stroke:#9b9b9b;stroke-width:1.05358744;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
-       id="rect11518"
-       width="40.946411"
-       height="40.946411"
-       x="3.5267944"
-       y="3.5267944"
+       ry="3.860249"
        rx="3.860249"
-       ry="3.860249" />
+       y="3.5267944"
+       x="3.5267944"
+       height="40.946411"
+       width="40.946411"
+       id="rect11518"
+       style="fill:url(#radialGradient3009);fill-opacity:1;fill-rule:evenodd;stroke:#9b9b9b;stroke-width:1.05358744;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible" />
     <rect
-       ry="3.0349534"
-       rx="3.0349534"
-       y="4.5267944"
-       x="4.5267944"
-       height="38.946411"
-       width="38.946411"
+       style="fill:none;stroke:#ffffff;stroke-width:1.0535872;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
        id="rect11528"
-       style="fill:none;stroke:#ffffff;stroke-width:1.0535872;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible" />
+       width="38.946411"
+       height="38.946411"
+       x="4.5267944"
+       y="4.5267944"
+       rx="3.0349534"
+       ry="3.0349534" />
     <path
-       id="path2086"
+       style="opacity:0.69886361;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9999997;marker:none;visibility:visible;display:block;overflow:visible"
        d="M 23.375004,12 C 19.090351,12.132141 17,14.163344 17,18.346415 L 17,22.999584 15.285715,23 C 14.578189,23.000172 14,23.399251 14,24 l 0,10.91955 c 0,0.600749 0.578189,1.080451 1.285715,1.08045 l 17.44642,0 C 33.439671,36 34,35.520298 34,34.91955 L 34,24 c 0,-0.600748 -0.608825,-0.742564 -1.267865,-1 l -1.74153,0 0.01786,-4.583462 c 0,-4.440426 -2.323972,-6.36173 -6.990605,-6.416538 -0.217569,-0.0026 -0.432135,-0.0065 -0.642856,0 z m 0.428566,3 c 0.07879,-0.0018 0.168535,0 0.250002,0 4.161907,0 3.869505,3.434233 3.945963,4.514415 L 27.999535,23 20,23 20,19.531841 C 19.98162,18.460236 19.851556,15.087759 23.80357,15 z"
-       style="opacity:0.69886361;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9999997;marker:none;visibility:visible;display:block;overflow:visible" />
+       id="path2086" />
   </g>
 </svg>
