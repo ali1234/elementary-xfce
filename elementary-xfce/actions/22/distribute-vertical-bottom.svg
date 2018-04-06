@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -8,167 +6,125 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   id="svg11744"
-   sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
    version="1.0"
-   sodipodi:docname="distribute-vertical-bottom.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/andreas/project/inkscape/22x22/actions/distribute-vertical-bottom.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"
-   sodipodi:modified="true">
+   id="svg11744"
+   height="22"
+   width="22">
   <defs
      id="defs11746">
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2968"
+       y2="489.35938"
+       x2="186.93732"
+       y1="489.35938"
+       x1="187.60938"
+       gradientTransform="translate(-395.9999,-981)"
+       gradientUnits="userSpaceOnUse"
        id="linearGradient7272"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-395.9999,-981)"
-       x1="187.60938"
-       y1="489.35938"
-       x2="186.93732"
-       y2="489.35938" />
+       xlink:href="#linearGradient2968" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2974"
+       y2="489.54688"
+       x2="187.1716"
+       y1="489.54688"
+       x1="187.81554"
+       gradientTransform="translate(-395.9999,-981)"
+       gradientUnits="userSpaceOnUse"
        id="linearGradient7270"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-395.9999,-981)"
-       x1="187.81554"
-       y1="489.54688"
-       x2="187.1716"
-       y2="489.54688" />
+       xlink:href="#linearGradient2974" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2986"
+       y2="489.35938"
+       x2="186.93732"
+       y1="489.35938"
+       x1="187.60938"
+       gradientUnits="userSpaceOnUse"
        id="linearGradient7268"
-       gradientUnits="userSpaceOnUse"
-       x1="187.60938"
-       y1="489.35938"
-       x2="186.93732"
-       y2="489.35938" />
+       xlink:href="#linearGradient2986" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2980"
+       y2="489.54688"
+       x2="187.1716"
+       y1="489.54688"
+       x1="187.81554"
+       gradientUnits="userSpaceOnUse"
        id="linearGradient7266"
-       gradientUnits="userSpaceOnUse"
-       x1="187.81554"
-       y1="489.54688"
-       x2="187.1716"
-       y2="489.54688" />
+       xlink:href="#linearGradient2980" />
     <linearGradient
-       id="linearGradient2968"
-       inkscape:collect="always">
+       id="linearGradient2968">
       <stop
-         id="stop2970"
+         style="stop-color:#ce5c00;stop-opacity:1"
          offset="0"
-         style="stop-color:#ce5c00;stop-opacity:1" />
+         id="stop2970" />
       <stop
-         id="stop2972"
+         style="stop-color:#ce5c00;stop-opacity:0"
          offset="1"
-         style="stop-color:#ce5c00;stop-opacity:0" />
+         id="stop2972" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2968"
+       y2="489.35938"
+       x2="186.93732"
+       y1="489.35938"
+       x1="187.60938"
+       gradientTransform="translate(-395.9999,-981)"
+       gradientUnits="userSpaceOnUse"
        id="linearGradient7264"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-395.9999,-981)"
-       x1="187.60938"
-       y1="489.35938"
-       x2="186.93732"
-       y2="489.35938" />
+       xlink:href="#linearGradient2968" />
     <linearGradient
-       id="linearGradient2974"
-       inkscape:collect="always">
+       id="linearGradient2974">
       <stop
-         id="stop2976"
+         style="stop-color:#fcaf3e;stop-opacity:1"
          offset="0"
-         style="stop-color:#fcaf3e;stop-opacity:1" />
+         id="stop2976" />
       <stop
-         id="stop2978"
+         style="stop-color:#fcaf3e;stop-opacity:0"
          offset="1"
-         style="stop-color:#fcaf3e;stop-opacity:0" />
+         id="stop2978" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2974"
+       y2="489.54688"
+       x2="187.1716"
+       y1="489.54688"
+       x1="187.81554"
+       gradientTransform="translate(-395.9999,-981)"
+       gradientUnits="userSpaceOnUse"
        id="linearGradient7262"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-395.9999,-981)"
-       x1="187.81554"
-       y1="489.54688"
-       x2="187.1716"
-       y2="489.54688" />
+       xlink:href="#linearGradient2974" />
     <linearGradient
-       id="linearGradient2986"
-       inkscape:collect="always">
+       id="linearGradient2986">
       <stop
-         id="stop2988"
+         style="stop-color:#ce5c00;stop-opacity:1"
          offset="0"
-         style="stop-color:#ce5c00;stop-opacity:1" />
+         id="stop2988" />
       <stop
-         id="stop2990"
+         style="stop-color:#ce5c00;stop-opacity:0"
          offset="1"
-         style="stop-color:#ce5c00;stop-opacity:0" />
+         id="stop2990" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2986"
-       id="linearGradient7260"
-       gradientUnits="userSpaceOnUse"
-       x1="187.60938"
-       y1="489.35938"
+       y2="489.35938"
        x2="186.93732"
-       y2="489.35938" />
+       y1="489.35938"
+       x1="187.60938"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient7260"
+       xlink:href="#linearGradient2986" />
     <linearGradient
-       id="linearGradient2980"
-       inkscape:collect="always">
+       id="linearGradient2980">
       <stop
-         id="stop2982"
+         style="stop-color:#fcaf3e;stop-opacity:1"
          offset="0"
-         style="stop-color:#fcaf3e;stop-opacity:1" />
+         id="stop2982" />
       <stop
-         id="stop2984"
+         style="stop-color:#fcaf3e;stop-opacity:0"
          offset="1"
-         style="stop-color:#fcaf3e;stop-opacity:0" />
+         id="stop2984" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2980"
-       id="linearGradient7258"
-       gradientUnits="userSpaceOnUse"
-       x1="187.81554"
-       y1="489.54688"
+       y2="489.54688"
        x2="187.1716"
-       y2="489.54688" />
+       y1="489.54688"
+       x1="187.81554"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient7258"
+       xlink:href="#linearGradient2980" />
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="22.197802"
-     inkscape:cx="8"
-     inkscape:cy="11.60396"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:grid-bbox="true"
-     inkscape:document-units="px"
-     width="22px"
-     height="22px"
-     inkscape:window-width="1162"
-     inkscape:window-height="880"
-     inkscape:window-x="0"
-     inkscape:window-y="47" />
   <metadata
      id="metadata11749">
     <rdf:RDF>
@@ -181,108 +137,84 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     id="layer1">
     <g
-       style="display:inline"
-       id="g7244"
        transform="matrix(0,-1,1,0,1.0988079e-4,22)"
-       inkscape:export-filename="/home/lapo/Desktop/align-distribute.tar.gz_FILES/align-stuff.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       id="g7244"
+       style="display:inline">
       <g
-         transform="translate(-128,-470)"
+         style="display:inline"
          id="g7204"
-         inkscape:export-filename="/home/lapo/Desktop/align-distribute.tar.gz_FILES/align-stuff.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"
-         style="display:inline">
+         transform="translate(-128,-470)">
         <rect
-           transform="matrix(0,-1,1,0,0,0)"
-           y="129.49626"
-           x="-489.49979"
-           height="8.0036144"
-           width="17.999748"
+           style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:1.00024867;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
            id="rect7206"
-           style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:1.00024867;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline" />
+           width="17.999748"
+           height="8.0036144"
+           x="-489.49979"
+           y="129.49626"
+           transform="matrix(0,-1,1,0,0,0)" />
         <rect
-           transform="matrix(0,-1,1,0,0,0)"
-           y="130.5"
-           x="-488.50009"
-           height="5.9998126"
-           width="15.999757"
-           id="rect7208"
+           ry="0"
+           rx="0"
            style="color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00024879;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+           id="rect7208"
+           width="15.999757"
+           height="5.9998126"
+           x="-488.50009"
+           y="130.5"
+           transform="matrix(0,-1,1,0,0,0)" />
+      </g>
+      <g
+         style="display:inline"
+         id="g7210"
+         transform="translate(1,0)">
+        <rect
+           style="fill:#d3d7cf;fill-opacity:1;stroke:#888a85;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect7212"
+           width="12"
+           height="7.999999"
+           x="-16.499878"
+           y="12.499998"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect7214"
+           width="10"
+           height="6.0000014"
+           x="-15.499878"
+           y="13.500005"
+           transform="matrix(0,-1,1,0,0,0)"
            rx="0"
            ry="0" />
       </g>
       <g
-         transform="translate(1,0)"
-         id="g7210"
-         style="display:inline">
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/lapo/Desktop/align-distribute.tar.gz_FILES/align-stuff.png"
-           transform="matrix(0,-1,1,0,0,0)"
-           y="12.499998"
-           x="-16.499878"
-           height="7.999999"
-           width="12"
-           id="rect7212"
-           style="fill:#d3d7cf;fill-opacity:1;stroke:#888a85;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <rect
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/lapo/Desktop/align-distribute.tar.gz_FILES/align-stuff.png"
-           ry="0"
-           rx="0"
-           transform="matrix(0,-1,1,0,0,0)"
-           y="13.500005"
-           x="-15.499878"
-           height="6.0000014"
-           width="10"
-           id="rect7214"
-           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      </g>
-      <g
-         id="g7216"
+         style="display:inline"
          transform="matrix(0,1,-1,0,492,-187)"
-         inkscape:export-filename="/home/lapo/Desktop/align-distribute.tar.gz_FILES/align-stuff.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"
-         style="display:inline">
+         id="g7216">
         <path
-           sodipodi:nodetypes="cccc"
-           id="path7218"
+           style="fill:url(#linearGradient7258);fill-opacity:1;stroke:url(#linearGradient7260);stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dashoffset:0;stroke-opacity:1"
            d="M 198.49998,491.5 L 186.49989,491.5 L 186.49989,489.5 L 198.49998,489.5"
-           style="fill:url(#linearGradient7258);fill-opacity:1;stroke:url(#linearGradient7260);stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dashoffset:0;stroke-opacity:1" />
+           id="path7218" />
         <path
-           sodipodi:nodetypes="cccc"
-           id="path7220"
-           d="M -197.49989,-489.5 L -209.49998,-489.5 L -209.49998,-491.5 L -197.49989,-491.5"
+           transform="scale(-1,-1)"
            style="fill:url(#linearGradient7262);fill-opacity:1;stroke:url(#linearGradient7264);stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dashoffset:0;stroke-opacity:1"
-           transform="scale(-1,-1)" />
+           d="M -197.49989,-489.5 L -209.49998,-489.5 L -209.49998,-491.5 L -197.49989,-491.5"
+           id="path7220" />
       </g>
       <g
-         id="g7222"
+         style="display:inline"
          transform="matrix(0,1,-1,0,504,-187)"
-         inkscape:export-filename="/home/lapo/Desktop/align-distribute.tar.gz_FILES/align-stuff.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"
-         style="display:inline">
+         id="g7222">
         <path
-           sodipodi:nodetypes="cccc"
-           id="path7224"
+           style="fill:url(#linearGradient7266);fill-opacity:1;stroke:url(#linearGradient7268);stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dashoffset:0;stroke-opacity:1"
            d="M 198.49998,491.5 L 186.49989,491.5 L 186.49989,489.5 L 198.49998,489.5"
-           style="fill:url(#linearGradient7266);fill-opacity:1;stroke:url(#linearGradient7268);stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dashoffset:0;stroke-opacity:1" />
+           id="path7224" />
         <path
-           sodipodi:nodetypes="cccc"
-           id="path7226"
-           d="M -197.49989,-489.5 L -209.49998,-489.5 L -209.49998,-491.5 L -197.49989,-491.5"
+           transform="scale(-1,-1)"
            style="fill:url(#linearGradient7270);fill-opacity:1;stroke:url(#linearGradient7272);stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dashoffset:0;stroke-opacity:1"
-           transform="scale(-1,-1)" />
+           d="M -197.49989,-489.5 L -209.49998,-489.5 L -209.49998,-491.5 L -197.49989,-491.5"
+           id="path7226" />
       </g>
     </g>
   </g>
